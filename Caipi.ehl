@@ -1,0 +1,7 @@
+[Op Calls]
+[Events]
+CaipiAutomat->itsStampfer->itsStampferkolben->GEN(evRun())`Kolben
+CaipiAutomat->itsStampfer->itsStampferkolben->GEN(evStop())`Kolben
+CaipiAutomat->itsStampfer->GEN(moveup())`Stampfer
+CaipiAutomat->itsKarussell->GEN(evGlas())`System::Karussell
+[Breakpoints]
